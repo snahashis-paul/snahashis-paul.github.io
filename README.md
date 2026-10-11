@@ -2,7 +2,7 @@
 
 Graduate and junior DevOps portfolio covering AWS EKS, Terraform, Kubernetes, GitOps, CI/CD and platform reliability.
 
-Website: https://pappupaul.github.io/
+Website: https://snahashis-paul.github.io/
 
 ## Files
 
